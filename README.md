@@ -1,1 +1,1 @@
-# HTML-CSS-JS-MODULE-3
+This is an Assignment for "HTML, CSS & JAVASCRIPT COURSE
